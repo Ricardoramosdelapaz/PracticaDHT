@@ -14,7 +14,7 @@ Para realizar esta practica necesitas lo siguiente
 
 - [WOKWI](https://https://wokwi.com/)
 - Tarjeta ESP 32
-- Sensor DHT11
+- Sensor DHT22
 
 
 
@@ -65,18 +65,18 @@ void loop() {
 
 1. Iniciar simulador.
 2. Visualizar los datos en el monitor serial.
-3. Colocar la temperatura y humedad dando *doble click* al sensor **DHT11** 
+3. Colocar la temperatura y humedad dando *doble click* al sensor **DHT22** 
 
 ## Resultados
 
 Cuando haya funcionado, verás los valores dentro del monitor serial como se muestra en la siguente imagen.
 
-![](https://github.com/DiegoJm10/PracticaDHT/blob/main/New%20ESP32%20Project%20-%20Wokwi%20Simulator%20-%20Google%20Chrome%2008_06_2023%2011_10_20%20p.%20m..png?raw=true)
+![](https://github.com/Ricardoramosdelapaz/PracticaDHT/blob/main/resultado.PNG?raw=true)
 
 
 
 # Créditos
 
-Desarrollado por Ing. Diego Jasso Miranda
+Desarrollado por Ing. Ricardo Ramos De la paz
 
 - https://github.com/Ricardoramosdelapaz
