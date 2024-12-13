@@ -55,9 +55,9 @@ void loop() {
 ```
 2. Instalar la libreria de **DHT sensor library for ESPx** como se muestra en la siguente imagen.
 
-![](https://github.com/DiegoJm10/PracticaDHT/blob/main/Libreria%20DHT.png?raw=true)
+![](https://github.com/Ricardoramosdelapaz/PracticaDHT/blob/main/DTH.PNG?raw=true)
 
-3. Hacer la conexion de **DHT11** con la **ESP32** como se muestra en la siguente imagen.
+3. Hacer la conexion de **DHT2** con la **ESP32** como se muestra en la siguente imagen.
 
 ![](https://github.com/DiegoJm10/PracticaDHT/blob/main/New%20ESP32%20Project%20-%20Wokwi%20Simulator%20-%20Google%20Chrome%2008_06_2023%2011_10_20%20p.%20m.%20(2).png?raw=true)
 
